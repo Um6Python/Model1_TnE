@@ -24,6 +24,8 @@ def tft_action(node, neighbour, g):
 """
 
 """
+
+stable cooperative Equilibrium
 @OUTPUT:
 
 (.venv) (base) ➜  Model1_TnE git:(master) ✗ /Users/thzaamoun/Downloads/Model1_TnE/.venv/bin/python /Users/thzaamoun/Downloads/Model1_TnE/tft_action.py
