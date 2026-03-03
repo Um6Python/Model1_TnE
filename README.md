@@ -1,3 +1,4 @@
+<iframe>https://claude.ai/public/artifacts/121abbf5-6b07-46c5-bf3f-dd805be70bad<iframe>
 # Model Summary: 
 Our model is a computational model of cooperation in directed networks used to model the vulnerability of terrorist cells to perturbations from outside actors, such as intelligence agencies or local authorities. Following (LITERATURE ON DIRECTED GRAPHS), we identify stable configurations of directed graphs with cycles, thought to mimic the properties of terrorist cell configurations (LITERATURE ON TERRORIST CELLS). Using the prisoner’s dilemma, a game theoretic model in which individuals are expected to forgo defecting from their neighbors to an external authority, we identify stable configurations of directed graphs, and attempt to “flip” individuals in the network to identify targets for external intervention. 
 
